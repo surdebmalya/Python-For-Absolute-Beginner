@@ -1,4 +1,4 @@
-## type casting is a way through which we can change the type of a variable to another variable
+## type casting is a way through which we can change the type of a variable to another type
 
 ## constructor functions: int(), float(), str() etc
 
