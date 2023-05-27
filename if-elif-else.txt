@@ -1,0 +1,30 @@
+Note following 5 points:
+- every if-elif-else block will start using if
+- elif and else are optional
+- else denotes the end of the block
+- there can be multiple elif for a block
+- there have to be one if and atmost one else for a block
+
+1)
+if expression:                     if x>5:
+	statement                       	print("Hi")
+
+2)
+if expression:                     if x>5:
+	statement									print("Hi")
+else:										else:
+	statement									print("Hello")
+
+3)
+if expression:							if x>5:
+	statement									print("Hi")
+elif expression:						elif x>0 and x<=5:
+	statement									print("Hola")
+
+4)
+if expression:                     if x>5:
+	statement									print("Hi")
+elif expression:						elif x>0 and x<=5:
+	statement									print("Hola")
+else:										else:
+	statement									print("Hello")
